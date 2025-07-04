@@ -1,0 +1,28 @@
+# STM32 Build Files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.log
+
+# IDE specific
+/.settings/
+/.metadata/
+*.launch
+*.uvoptx
+*.uvprojx
+*.cproject
+*.project
+
+# Output folders
+Debug/
+Release/
+build/
+
+# OS and others
+.DS_Store
+Thumbs.db
+
